@@ -1,4 +1,4 @@
-log_dir: "/content/gdrive/Mydrive/Models/VCTK20"
+log_dir: "/content/gdrive/MyDrive/Models/VCTK20"
 save_freq: 30
 device: "cuda"
 epochs: 150
