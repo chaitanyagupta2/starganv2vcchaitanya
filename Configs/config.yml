@@ -10,9 +10,9 @@ fp16_run: true
 train_data: "/content/gdrive/MyDrive/data/train_list.txt"
 val_data: "/content/gdrive/MyDrive/data/val_list.txt"
 
-F0_path: "Utils/JDC/bst.t7"
-ASR_config: "Utils/ASR/config.yml"
-ASR_path: "Utils/ASR/epoch_00100.pth"
+F0_path: "/content/starganv2vcchaitanya/Utils/JDC/bst.t7"
+ASR_config: "/content/starganv2vcchaitanya/Utils/ASR/config.yml"
+ASR_path: "/content/starganv2vcchaitanya/Utils/ASR/epoch_00100.pth"
 
 preprocess_params:
   sr: 24000
