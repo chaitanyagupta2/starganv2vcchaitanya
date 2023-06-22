@@ -3,7 +3,7 @@ save_freq: 30
 device: "cuda"
 epochs: 150
 batch_size: 5
-pretrained_model: ""
+pretrained_model: "/content/gdrive/MyDrive/Models/VCTK20/epoch_00030.pth"
 load_only_params: false
 fp16_run: true
 
