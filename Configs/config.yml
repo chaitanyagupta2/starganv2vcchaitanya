@@ -1,9 +1,9 @@
 log_dir: "/content/gdrive/MyDrive/Models/VCTK20"
-save_freq: 30
+save_freq: 50
 device: "cuda"
-epochs: 150
+epochs: 300
 batch_size: 5
-pretrained_model: "/content/gdrive/MyDrive/Models/VCTK20/epoch_00030.pth"
+pretrained_model: "/content/gdrive/MyDrive/Models/VCTK20/epoch_00150.pth"
 load_only_params: false
 fp16_run: true
 
